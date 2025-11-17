@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(bgimg.jpg);
+    background-size: cover;
+}
+.a1{
+    border: 1.5px solid white;
+    height: 430px;
+    width: 350px;
+    margin: 0px auto;
+    margin-top: 120px;
+    border-radius: 15px;
+    backdrop-filter: blur(5px);
+    text-align: center;
+}
+h1{
+    margin-top: 55px;
+    color: whitesmoke;
+}
+#a2{
+    margin-top: 30px;
+    height: 13px;
+    width: 250px;
+    padding: 7px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+#a5{
+    margin-top: 20px;
+    height: 13px;
+    width: 250px;
+    padding: 7px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+#bt{
+    margin-top: 18px;
+    height: 30px;
+    width: 100px;
+    border:1.5px solid black;
+    border-radius: 20px;
+    letter-spacing: 1.5px;
+    font-size: x-small;
+    background-color:white;
+    backdrop-filter: blur(1px);
+    font-weight: 150px;
+    color:black;
+}
+#bt1{
+    margin-top: 10px;
+    height: 30px;
+    width: 250px;
+    border: 1.5px groove black;
+    border-radius: 20px;
+    letter-spacing: 1.5px;
+    font-size: x-small;
+    background-color:white;
+    font-weight: 150px;
+    color: black;
+}
+p{
+    margin-top: 7px;
+    color: white;
+    font-size: x-small;
+}
+#b1{
+    margin-top: 18px;
+    font-weight:200px;
+    color: white;
+    letter-spacing: 1px;
+}
+a{
+    color: blue;
+    font-weight:bold;
+}
+#bt:hover{
+    background-color: darkblue;
+    border: 1.5px solid black;
+    color: white;
+    font-weight: 200px;
+}
+#bt1:hover{
+    background-color: darkblue;
+    border: 1.5px solid black;
+    color: white;
+    font-weight: 200px;
+}
