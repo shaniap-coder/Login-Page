@@ -74,7 +74,7 @@ p{
 }
 a{
     color: blue;
-    font-weight:100px;
+    font-weight:80px;
 }
 #bt:hover{
     background-color: darkblue;
@@ -85,7 +85,8 @@ a{
 #bt1:hover{
     background-color: darkred;
     border: 1.5px solid black;
-    color: white;
+    color: black;
     font-weight: 200px;
 }
+
 
