@@ -73,20 +73,30 @@ p{
     letter-spacing: 1px;
 }
 a{
-    color: blue;
-    font-weight:80px;
+   color: rgb(218, 213, 211);
+   text-decoration: none;
 }
 #bt:hover{
-    background-color: darkblue;
-    border: 1.5px solid black;
-    color: white;
-    font-weight: 200px;
+    background-color:skyblue;
+    border: 1px solid black;
+    letter-spacing: 2px;
+    color: black;
+    font-weight:bold;
+    box-shadow: white 0 5px 30px;
 }
 #bt1:hover{
-    background-color: darkred;
-    border: 1.5px solid black;
-    color: black;
+   background-color:black;
+    border: 1.5px solid white;
+    color:white;
+    box-shadow: white 0 5px 30px;
+    letter-spacing: 2px;
     font-weight: 200px;
 }
+a:hover{
+    color: darkturquoise;
+    text-decoration: underline;
+    font-weight:bold;
+}
+
 
 
